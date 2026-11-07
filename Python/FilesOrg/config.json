@@ -1,0 +1,25 @@
+{
+  "Extension": {
+    "Documentos": {
+      "PDFs": [".pdf"],
+      "Word": [".doc", ".docx", ".odt"],
+      "Excel": [".xls", ".xlsx", ".csv", ".ods",".xlsm"],
+      "PowerPoint": [".ppt", ".pptx", ".odp"],
+      "Texto": [".txt", ".md", ".rtf"]
+    },
+    "Imágenes": [".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg", ".bmp", ".heic"],
+    "Audio": [".mp3", ".wav", ".flac", ".m4a", ".ogg"],
+    "Video": [".mp4", ".mkv", ".avi", ".mov", ".webm"],
+    "Comprimidos": [".zip", ".rar", ".7z", ".tar", ".gz"],
+    "Instaladores": [".exe", ".msi", ".apk", ".dmg"],
+    "Programación": {
+      "Python": [".py", ".ipynb"],
+      "Web": [".html", ".htm", ".css", ".js", ".ts"],
+      "C y C++": [".c", ".cpp", ".h", ".hpp"]
+    },
+    "Otros": []
+  },
+  "Path-Directory": "C:/Proyectos/Python/FilesOrg/Downloads-test",
+  "Run-In-Second-Plane": false,
+  "Copy-Security": true
+}
